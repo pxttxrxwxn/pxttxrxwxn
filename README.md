@@ -30,10 +30,7 @@
 <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
 <br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pxttxrxwxn&theme=synthwave&show_icons=true" height="200" alt="streak graph"  />
-</div>
-<br>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pxttxrxwxn/pxttxrxwxn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pxttxrxwxn/pxttxrxwxn/output/pacman-contribution-graph.svg">
